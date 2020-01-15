@@ -14,7 +14,7 @@ Begin by finding the two 2x1 grey squares
 
 ![Step 2](https://github.com/Joe5565/e235/blob/master/Images/Step%202.png)
 
-Connect the two 2x1s to the dark grey 6x2 piece under the second and sixth row
+attach the two 2x1s to the dark grey 6x2 piece under the second and sixth row
 
 ## Step 3
 
